@@ -30,7 +30,7 @@ Pod::Spec.new do |s|
   https://objectpartners.com/2014/06/25/developing-private-in-house-libraries-with-cocoapods/
                    DESC
 
-  s.homepage     = "https://github.com/posixlinux/PodLib"
+  s.homepage     = "https://github.com/linuxposix/PodLib.git"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -42,7 +42,7 @@ Pod::Spec.new do |s|
   #
 
   s.license      = { :type => 'MIT', :text => <<-LICENSE
-  					posix_linux@naver.com
+  					posixlinux@gmail.com
   					LICENSE
   					}
 
@@ -59,7 +59,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "posix_linux" => "posix_linux@naver.com" }
+  s.author             = { "linuxposix" => "posixlinux@gmail.com" }
   # Or just: s.author    = ""
   # s.authors            = { "" => "" }
   # s.social_media_url   = "http://twitter.com/"
